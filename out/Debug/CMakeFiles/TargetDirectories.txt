@@ -1,4 +1,0 @@
-/home/rijwan/Desktop/learn/15-puzzle/out/Debug/CMakeFiles/15Puzzle.dir
-/home/rijwan/Desktop/learn/15-puzzle/out/Debug/CMakeFiles/run.dir
-/home/rijwan/Desktop/learn/15-puzzle/out/Debug/CMakeFiles/edit_cache.dir
-/home/rijwan/Desktop/learn/15-puzzle/out/Debug/CMakeFiles/rebuild_cache.dir
