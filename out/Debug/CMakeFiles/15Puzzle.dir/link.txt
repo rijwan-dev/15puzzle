@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -Werror -g -rdynamic CMakeFiles/15Puzzle.dir/src/main.cpp.o CMakeFiles/15Puzzle.dir/src/renderer.cpp.o CMakeFiles/15Puzzle.dir/src/game.cpp.o CMakeFiles/15Puzzle.dir/src/board.cpp.o CMakeFiles/15Puzzle.dir/src/tile.cpp.o -o 15Puzzle  -lcurses -lform 
